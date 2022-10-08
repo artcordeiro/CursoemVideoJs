@@ -1,0 +1,6 @@
+console.log('Tudo bem?')
+
+var qtdImpressão = 8
+while(qtdImpressão < 10){
+    console.log('Tudo bem?')
+}

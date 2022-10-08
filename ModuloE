@@ -1,0 +1,29 @@
+    Modulo E - Repetições
+
+Repetições com teste no início
+ - While
+
+    while(condição){
+        var++
+    }
+
+Repetições com teste no final
+ - DoWhile
+
+    do{
+        var++ //para incrementar
+    }while();
+
+Repetições com controle (com variavel de controle)
+ - For
+
+    for(inicio; teste; incremento){
+
+    }
+
+    for(var c=1; c <= 10; c++ ){
+
+    }
+ 
+
+Exercícios Propostos

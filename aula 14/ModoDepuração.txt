@@ -1,0 +1,3 @@
+Executar -> Iniciar depuração
+
+Caso queira verificar alguma variavel, adicionar ela na aba, variable.
